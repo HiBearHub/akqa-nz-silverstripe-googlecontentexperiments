@@ -8,3 +8,4 @@ if (!file_exists(BASE_PATH . '/vendor/autoload.php')) {
 }
 
 $loader = require BASE_PATH . '/vendor/autoload.php';
+
