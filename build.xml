@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<project name="asscounts" default="building">
+<project name="limit" default="building">
  <target name="build"
    depends="prepare,lint,phploc,pdepend,phpmd-ci,phpcs-ci,sami,phpunit"/>
 
