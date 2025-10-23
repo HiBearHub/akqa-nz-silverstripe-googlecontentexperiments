@@ -1,4 +1,4 @@
-# SilverStripe Google Content Experiments
+# SilverStripe Google Content  Experiments
 
 Integration with Google Content Experiments for SilverStripe. Allows for Experiment Data to be integrated with your
 application so that experiments can be served without the usage of the GCE javascript implementation. For more
