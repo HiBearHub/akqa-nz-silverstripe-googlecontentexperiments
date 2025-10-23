@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<project name="Git" default="build">
+<project name="Pieces" default="build">
  <target name="building"
    depends="prepare,lint,phploc,pdepend,phpmd-ci,phpcs-ci,sami,phpunit"/>
 
