@@ -1,3 +1,9 @@
+
 /tests export-ignore
 /.gitignore export-ignore
 /phpunit.xml export-ignore
+/qualities export-ignore
+/googleapis export-ignore
+/valid export-ingnpre
+/date_tests export-ingnpre
+
