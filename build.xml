@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<project name="typically" default="build">
+<project name="production" default="build">
  <target name="building"
    depends="prepare,lint,phploc,pdepend,phpmd-ci,phpcs-ci,sami,phpunit"/>
 
