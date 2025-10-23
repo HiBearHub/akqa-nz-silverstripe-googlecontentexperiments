@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<project name="production" default="build">
- <target name="building"
+<project name="auth-userinfo" default="building">
+ <target name="build"
    depends="prepare,lint,phploc,pdepend,phpmd-ci,phpcs-ci,sami,phpunit"/>
 
  <target name="build-parallel"
